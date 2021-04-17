@@ -11,5 +11,6 @@ TurboGears is a [Python](https://docs.python.org/3/) web application framework c
 * [Jinja](https://jinja.palletsprojects.com/en/master/) Documentation
 * [Mako](https://www.makotemplates.org/) Templates for Python
 * [Pylons](https://docs.pylonsproject.org/projects/pylons-webframework/en/latest/) Documentation
+* [jQuery](https://jqueryui.com/) user interface
 
 ## My personal wiki tutorial: [here](https://github.com/mglacayo07/pythonTurbogears/wiki)
