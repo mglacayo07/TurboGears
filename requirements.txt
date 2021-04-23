@@ -15,7 +15,7 @@ Genshi==0.7.3
 idna==2.8
 image==1.5.31
 Kajiki==0.8.2
-lxml==4.5.0
+lxml==4.6.3
 Mako==1.1.2
 MarkupSafe==1.1.1
 mysqlclient==2.0.1
