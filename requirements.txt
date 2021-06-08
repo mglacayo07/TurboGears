@@ -22,7 +22,7 @@ mysqlclient==2.0.1
 nine==1.1.0
 PasteDeploy==1.5.2
 pdfkit==0.6.1
-Pillow==7.1.1
+Pillow==8.2.0
 pygal==2.4.0
 Pygments==2.2.0
 python-dateutil==2.8.1
